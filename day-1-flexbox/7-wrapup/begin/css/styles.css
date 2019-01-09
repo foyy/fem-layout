@@ -130,8 +130,7 @@ footer a {
 .row {
   display: flex;
   flex-flow: row wrap;
-  flex: 0 1 auto;
-}
+  flex: 0 1 auto;}
 [class*="col-"] {
   flex: 0 0 92%;
   margin: 0 4%;
